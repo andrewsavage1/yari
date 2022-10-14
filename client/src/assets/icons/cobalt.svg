@@ -1,0 +1,45 @@
+<svg class="icon" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img">  <polygon
+     id="Fill-1"
+     fill="#2a69cd"
+     points="442,0 147,0 0,256 147,512 442,512 295,256 "
+     transform="translate(29.190422)" />
+  <polygon
+     id="Fill-2"
+     fill="#2a69cd"
+     points="295,427 147,512 442,512 "
+     transform="translate(29.190422)" />
+  <polygon
+     id="Fill-10"
+     fill="#438ee2"
+     points="295,256 295,427 442,512 "
+     transform="translate(29.190422)" />
+  <polygon
+     id="Fill-15"
+     fill="#3474d2"
+     points="295,256 147,512 295,427 "
+     transform="translate(29.190422)" />
+  <polygon
+     id="Fill-11"
+     fill="#79adee"
+     points="295,256 0,256 147,512 "
+     transform="translate(29.190422)" />
+  <polygon
+     id="Fill-7"
+     fill="#2869c6"
+     points="442,0 0,256 295,256 "
+     transform="translate(29.190422)" />
+  <polygon
+     id="Fill-8"
+     fill="#3474d2"
+     points="442,0 184,63 0,256 "
+     transform="translate(29.190422)" />
+  <polygon
+     id="Fill-5"
+     fill="#438ee2"
+     points="442,0 147,0 184,63 "
+     transform="translate(29.190422)" />
+  <polygon
+     id="Fill-9"
+     fill="#79adee"
+     points="184,63 147,0 0,256 "
+     transform="translate(29.190422)" /></svg>
